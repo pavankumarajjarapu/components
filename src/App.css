@@ -1,0 +1,65 @@
+img{
+  width: 300px;
+  margin: 10px;
+  
+}
+.player_container{
+  background-color: beige;
+  border: 10px groove rgb(38, 17, 1);
+  border-radius: 9px;
+  width: 400px;
+  text-align: center;
+  margin: 20px;
+}
+hr{
+  height: 10px;
+  background-color:rgb(16, 234, 172);
+  border-radius: 5px;
+}
+video{
+  width: 385px;
+}
+h1{
+  text-align: center;
+  color: rgba(97, 4, 29, 0.634);
+  font-family:sans-serif;
+  background-color: beige;
+  border-radius: 12px;
+  box-shadow: 2px 2px 5px black;
+  margin: 12px;
+  font-size: 3rem;
+}
+h3{
+  color: rgba(245, 8, 8, 0.854);
+  font-size: 2rem;
+  font-family: serif;
+  margin: 12px;
+}
+.movie{
+  background-color: beige;
+  border: 10px solid gray;
+  display: flex;
+  width: 100%;
+  
+  flex-direction: row;
+  justify-content:space-evenly;
+  padding: 20px;
+  
+}
+h2{
+  color: crimson;
+  
+}
+p{
+  color: rgb(215, 126, 11);
+  font-family: 20px;
+
+}
+/* .iframe{
+  border-radius: 20px;
+  
+} */
+.image{
+  width: 300px;
+  height: 200px;
+}
